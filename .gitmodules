@@ -1,6 +1,8 @@
-[submodule "QNICE"]
-	path = M2M/QNICE
-	url = https://github.com/sy2002/QNICE-FPGA
 [submodule "CORE/Arcade-GnG_MiSTer"]
 	path = CORE/Arcade-GnG_MiSTer
-	url = https://github.com/sho3string/Arcade-GnG_MiSTer
+	url = git@github.com:rjaremczak/Arcade-GnG_MiSTer.git
+	branch = mega65
+[submodule "M2M/QNICE"]
+	path = M2M/QNICE
+	url = git@github.com:sy2002/QNICE-FPGA.git
+	branch = dev-V1.61
